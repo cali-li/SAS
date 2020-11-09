@@ -1,0 +1,1938 @@
+From: =?gb2312?B?0tHTySBJbnRlcm5ldCBFeHBsb3JlciAxMSCxo7Tm?=
+Subject: SAS Output
+Date: Fri, 6 Jan 2017 00:36:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01D267B4.E385B2D0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.3.9600.18838
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01D267B4.E385B2D0
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:\Users\lwj\AppData\Local\Temp\SAS Temporary Files\_TD2820_MYCOMPUTER_\sashtml.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><META content=3D"IE=3D5.0000" =
+http-equiv=3D"X-UA-Compatible">
+<TITLE>SAS Output</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.18838">
+<META content=3D"text/html; charset=3DGBK" http-equiv=3DContent-type>
+<STYLE type=3Dtext/css>.aftercaption {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; PADDING-TOP: 4pt; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.batch {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, monospace, sans-serif; BORDER-RIGHT: =
+#c1c1c1 1px solid; BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px =
+solid; FONT-WEIGHT: normal; COLOR: #000000; PADDING-BOTTOM: 7px; =
+FONT-STYLE: normal; PADDING-TOP: 7px; PADDING-LEFT: 7px; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; PADDING-RIGHT: 7px; =
+BACKGROUND-COLOR: #fafbfe
+}
+.beforecaption {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: 0px; =
+BACKGROUND-COLOR: #fafbfe
+}
+.body {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; MARGIN-LEFT: 8px; =
+BACKGROUND-COLOR: #fafbfe; MARGIN-RIGHT: 8px
+}
+.bodydate {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; WIDTH: 100%; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.bycontentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+MARGIN-LEFT: 6pt
+}
+.byline {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: 0px; =
+BACKGROUND-COLOR: #fafbfe
+}
+.bylinecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #000000 0px solid; WIDTH: 100%; BORDER-BOTTOM: =
+#000000 0px solid; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 0px solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.caption {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: 0px; =
+BACKGROUND-COLOR: #fafbfe
+}
+.cell {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.container {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.contentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+MARGIN-LEFT: 6pt
+}
+.contentitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+MARGIN-LEFT: 6pt
+}
+.contentproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.contentprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.contents {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; MARGIN-RIGHT: 8px
+}
+.contentsdate {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; WIDTH: 100%; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contenttitle {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: #fafbfe
+}
+.continued {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; WIDTH: 100%; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.data {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: #c1c1c1 1px =
+solid; FONT-WEIGHT: normal; FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px =
+solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: #c1c1c1 1px =
+solid; FONT-WEIGHT: normal; FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px =
+solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, monospace, sans-serif; BORDER-RIGHT: =
+#c1c1c1 1px solid; BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: =
+normal; FONT-STYLE: italic; BORDER-LEFT: #c1c1c1 0px solid; =
+BACKGROUND-COLOR: #ffffff
+}
+.dataempty {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: #c1c1c1 1px =
+solid; FONT-WEIGHT: normal; FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px =
+solid; BACKGROUND-COLOR: #ffffff
+}
+.datafixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, sans-serif; BORDER-RIGHT: #c1c1c1 1px =
+solid; BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.datastrong {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: #c1c1c1 1px =
+solid; FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; =
+BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datastrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, monospace, sans-serif; BORDER-RIGHT: =
+#c1c1c1 1px solid; BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; =
+COLOR: #000000; FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; =
+BACKGROUND-COLOR: #ffffff
+}
+.date {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; WIDTH: 100%; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.document {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+A:link {
+	COLOR: #0000ff
+}
+A:visited {
+	COLOR: #800080
+}
+A:active {
+	COLOR: #800080
+}
+.errorbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.errorcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.errorcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: CSongGB18030C-LightHWL, Courier, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.extendedpage {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 1pt solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #000000 1pt solid; BORDER-BOTTOM: #000000 1pt =
+solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: italic; =
+TEXT-ALIGN: center; BORDER-LEFT: #000000 1pt solid; BACKGROUND-COLOR: =
+#fafbfe
+}
+.fatalbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.fatalcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.fatalcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: CSongGB18030C-LightHWL, Courier, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.folderaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+MARGIN-LEFT: 6pt
+}
+.footer {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.footeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: italic; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.footeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, monospace, sans-serif; BORDER-RIGHT: =
+#b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px =
+solid; BACKGROUND-COLOR: #edf2f9
+}
+.footerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.footerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, sans-serif; BORDER-RIGHT: #b0b7bb 1px =
+solid; BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: =
+#112277; FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9
+}
+.footerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.footerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, monospace, sans-serif; BORDER-RIGHT: =
+#b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9
+}
+.frame {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.graph {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-COLLAPSE: separate; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #c1c1c1 1px solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.header {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.headeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #d8dbd3
+}
+.headeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, monospace, sans-serif; BORDER-RIGHT: =
+#b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px =
+solid; BACKGROUND-COLOR: #d8dbd3
+}
+.headerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.headerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, sans-serif; BORDER-RIGHT: #b0b7bb 1px =
+solid; BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: =
+#112277; FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9
+}
+.headersandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #edf2f9
+}
+.headerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #d8dbd3
+}
+.headerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, monospace, sans-serif; BORDER-RIGHT: =
+#b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; =
+COLOR: #000000; FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #d8dbd3
+}
+.index {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.indexaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+MARGIN-LEFT: 6pt
+}
+.indexitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+MARGIN-LEFT: 6pt
+}
+.indexprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.indextitle {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: #fafbfe
+}
+.layoutcontainer {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.layoutregion {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.linecontent {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: #c1c1c1 1px =
+solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.list {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.list10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.list2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.list3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.list4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.list5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.list6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.list7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.list8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.list9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.note {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.notebanner {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.notecontent {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.notecontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: CSongGB18030C-LightHWL, Courier, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.output {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-COLLAPSE: separate; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #c1c1c1 1px solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.pageno {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; VERTICAL-ALIGN: =
+top; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+right; BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.pages {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; MARGIN-RIGHT: 8px
+}
+.pagesdate {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; WIDTH: 100%; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.pagesitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+MARGIN-LEFT: 6pt
+}
+.pagesproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.pagesprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.pagestitle {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: #fafbfe
+}
+.paragraph {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.parskip {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #000000 0px solid; BORDER-BOTTOM: #000000 0px =
+solid; FONT-WEIGHT: bold; FONT-STYLE: normal; BORDER-SPACING: 0px; =
+BORDER-LEFT: #000000 0px solid
+}
+.prepage {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: left; =
+BACKGROUND-COLOR: #fafbfe
+}
+.proctitle {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.proctitlefixed {
+	FONT-SIZE: x-small; FONT-FAMILY: CSongGB18030C-LightHWL, Courier, =
+monospace, sans-serif; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: =
+normal; BACKGROUND-COLOR: #fafbfe
+}
+.rowfooter {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooteremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: italic; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooteremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, monospace, sans-serif; BORDER-RIGHT: =
+#b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px =
+solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, sans-serif; BORDER-RIGHT: #b0b7bb 1px =
+solid; BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: =
+#112277; FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, monospace, sans-serif; BORDER-RIGHT: =
+#b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9
+}
+.rowheader {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: italic; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, monospace, sans-serif; BORDER-RIGHT: =
+#b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px =
+solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, sans-serif; BORDER-RIGHT: #b0b7bb 1px =
+solid; BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: =
+#112277; FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px =
+solid; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+CSongGB18030C-LightHWL, Courier, monospace, sans-serif; BORDER-RIGHT: =
+#b0b7bb 1px solid; BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9
+}
+.systemfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter10 {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter2 {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter3 {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter4 {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter5 {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter6 {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter7 {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter8 {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter9 {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle {
+	FONT-SIZE: small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle10 {
+	FONT-SIZE: small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle2 {
+	FONT-SIZE: small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle3 {
+	FONT-SIZE: small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle4 {
+	FONT-SIZE: small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle5 {
+	FONT-SIZE: small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle6 {
+	FONT-SIZE: small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle7 {
+	FONT-SIZE: small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle8 {
+	FONT-SIZE: small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle9 {
+	FONT-SIZE: small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.systitleandfootercontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #000000 0px solid; WIDTH: 100%; BORDER-BOTTOM: =
+#000000 0px solid; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 0px solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.table {
+	BORDER-TOP: #c1c1c1 1px solid; BORDER-RIGHT: #c1c1c1 0px solid; =
+BORDER-COLLAPSE: collapse; BORDER-BOTTOM: #c1c1c1 0px solid; =
+BORDER-SPACING: 0px; BORDER-LEFT: #c1c1c1 1px solid
+}
+.top_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: =
+1px; BORDER-LEFT: 0px
+}
+.middle_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: =
+1px; PADDING-TOP: 1px; BORDER-LEFT: 0px
+}
+.bottom_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-TOP: =
+1px; BORDER-LEFT: 0px
+}
+.titleandnotecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: =
+MYingHei_18030_C-Medium, MYingHei_18030_C-Medium, Helvetica, Helv, =
+sans-serif; BORDER-RIGHT: #000000 0px solid; WIDTH: 100%; BORDER-BOTTOM: =
+#000000 0px solid; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 0px solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.titlesandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.usertext {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.warnbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: bold; =
+COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.warncontent {
+	FONT-SIZE: x-small; FONT-FAMILY: MYingHei_18030_C-Medium, =
+MYingHei_18030_C-Medium, Helvetica, Helv, sans-serif; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.warncontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: CSongGB18030C-LightHWL, Courier, =
+sans-serif; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.l {
+	TEXT-ALIGN: left
+}
+.c {
+	TEXT-ALIGN: center
+}
+.r {
+	TEXT-ALIGN: right
+}
+.d {
+	TEXT-ALIGN: right
+}
+.j {
+	TEXT-ALIGN: justify
+}
+.t {
+	VERTICAL-ALIGN: top
+}
+.m {
+	VERTICAL-ALIGN: middle
+}
+.b {
+	VERTICAL-ALIGN: bottom
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+TH {
+	VERTICAL-ALIGN: top
+}
+.stacked_cell {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px
+}
+</STYLE>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY class=3Dbody onload=3Dstartup() onunload=3Dshutdown()>
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+var _info =3D navigator.userAgent
+var _ie =3D (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+var _ie64 =3D _info.indexOf("x64") > 0
+
+//-->
+</SCRIPT>
+
+<DIV class=3Dbranch><A name=3DIDX></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c =
+systemtitle">homework_chapter7</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">PRINCOMP =B9=FD=B3=CC</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Princomp: =
+=B9=DB=B2=E2=A1=A2=B1=E4=C1=BF=BA=CD=C6=AB=B1=E4=C1=BF=B5=C4=CA=FD=C1=BF"=
+ frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>=B9=DB=B2=E2</TH>
+    <TD class=3D"r data">30</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>=B1=E4=C1=BF</TH>
+    <TD class=3D"r data">4</TD></TR></TBODY></TABLE></DIV></DIV><BR><A =
+name=3DIDX1></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Princomp: =BC=F2=B5=A5=CD=B3=BC=C6=C1=BF" =
+frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D5 =
+scope=3Dcolgroup>=BC=F2=B5=A5=CD=B3=BC=C6=C1=BF</TH></TR>
+  <TR>
+    <TH class=3D"c headerempty" scope=3Dcol>&nbsp;</TH>
+    <TH class=3D"r b header" scope=3Dcol>X1</TH>
+    <TH class=3D"r b header" scope=3Dcol>X2</TH>
+    <TH class=3D"r b header" scope=3Dcol>X3</TH>
+    <TH class=3D"r b header" scope=3Dcol>X4</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>=BE=F9=D6=B5</TH>
+    <TD class=3D"r data">149.0000000</TD>
+    <TD class=3D"r data">38.70000000</TD>
+    <TD class=3D"r data">72.23333333</TD>
+    <TD class=3D"r data">79.36666667</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>StD</TH>
+    <TD class=3D"r data">7.3155479</TD>
+    <TD class=3D"r data">6.46022312</TD>
+    <TD class=3D"r data">5.15071695</TD>
+    <TD class=3D"r =
+data">4.27085821</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX2></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Princomp: =CF=E0=B9=D8=BE=D8=D5=F3" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D5 =
+scope=3Dcolgroup>=CF=E0=B9=D8=BE=D8=D5=F3</TH></TR>
+  <TR>
+    <TH class=3D"c headerempty" scope=3Dcol>&nbsp;</TH>
+    <TH class=3D"r b header" scope=3Dcol>X1</TH>
+    <TH class=3D"r b header" scope=3Dcol>X2</TH>
+    <TH class=3D"r b header" scope=3Dcol>X3</TH>
+    <TH class=3D"r b header" scope=3Dcol>X4</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>X1</TH>
+    <TD class=3D"r data">1.0000</TD>
+    <TD class=3D"r data">0.8632</TD>
+    <TD class=3D"r data">0.7321</TD>
+    <TD class=3D"r data">0.9205</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>X2</TH>
+    <TD class=3D"r data">0.8632</TD>
+    <TD class=3D"r data">1.0000</TD>
+    <TD class=3D"r data">0.8965</TD>
+    <TD class=3D"r data">0.8827</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>X3</TH>
+    <TD class=3D"r data">0.7321</TD>
+    <TD class=3D"r data">0.8965</TD>
+    <TD class=3D"r data">1.0000</TD>
+    <TD class=3D"r data">0.7829</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>X4</TH>
+    <TD class=3D"r data">0.9205</TD>
+    <TD class=3D"r data">0.8827</TD>
+    <TD class=3D"r data">0.7829</TD>
+    <TD class=3D"r =
+data">1.0000</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX3></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Princomp: =
+=CF=E0=B9=D8=BE=D8=D5=F3=B5=C4=CC=D8=D5=F7=D6=B5" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D5 =
+scope=3Dcolgroup>=CF=E0=B9=D8=BE=D8=D5=F3=B5=C4=CC=D8=D5=F7=D6=B5</TH></T=
+R>
+  <TR>
+    <TH class=3D"c headerempty" scope=3Dcol>&nbsp;</TH>
+    <TH class=3D"r b header" scope=3Dcol>=CC=D8=D5=F7=D6=B5</TH>
+    <TH class=3D"r b header" scope=3Dcol>=B2=EE=B7=D6</TH>
+    <TH class=3D"r b header" scope=3Dcol>=B1=C8=C0=FD</TH>
+    <TH class=3D"r b header" scope=3Dcol>=C0=DB=BB=FD</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TD class=3D"r data">3.54109800</TD>
+    <TD class=3D"r data">3.22771484</TD>
+    <TD class=3D"r data">0.8853</TD>
+    <TD class=3D"r data">0.8853</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TD class=3D"r data">0.31338316</TD>
+    <TD class=3D"r data">0.23397420</TD>
+    <TD class=3D"r data">0.0783</TD>
+    <TD class=3D"r data">0.9636</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TD class=3D"r data">0.07940895</TD>
+    <TD class=3D"r data">0.01329906</TD>
+    <TD class=3D"r data">0.0199</TD>
+    <TD class=3D"r data">0.9835</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TD class=3D"r data">0.06610989</TD>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">0.0165</TD>
+    <TD class=3D"r =
+data">1.0000</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX4></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Princomp: =CC=D8=D5=F7=CF=F2=C1=BF" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D5 =
+scope=3Dcolgroup>=CC=D8=D5=F7=CF=F2=C1=BF</TH></TR>
+  <TR>
+    <TH class=3D"c headerempty" scope=3Dcol>&nbsp;</TH>
+    <TH class=3D"r b header" scope=3Dcol>F1</TH>
+    <TH class=3D"r b header" scope=3Dcol>F2</TH>
+    <TH class=3D"r b header" scope=3Dcol>F3</TH>
+    <TH class=3D"r b header" scope=3Dcol>F4</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>X1</TH>
+    <TD class=3D"r data">0.496966</TD>
+    <TD class=3D"r data">-.543213</TD>
+    <TD class=3D"r data">-.449627</TD>
+    <TD class=3D"r data">0.505747</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>X2</TH>
+    <TD class=3D"r data">0.514571</TD>
+    <TD class=3D"r data">0.210246</TD>
+    <TD class=3D"r data">-.462330</TD>
+    <TD class=3D"r data">-.690844</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>X3</TH>
+    <TD class=3D"r data">0.480901</TD>
+    <TD class=3D"r data">0.724621</TD>
+    <TD class=3D"r data">0.175177</TD>
+    <TD class=3D"r data">0.461488</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>X4</TH>
+    <TD class=3D"r data">0.506928</TD>
+    <TD class=3D"r data">-.368294</TD>
+    <TD class=3D"r data">0.743908</TD>
+    <TD class=3D"r =
+data">-.232343</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX5></A>
+<DIV>
+<DIV class=3Dc><IMG class=3Dc style=3D"HEIGHT: 360px; WIDTH: 640px" =
+border=3D0=20
+alt=3D=B6=B8=C6=C2=CD=BC=BA=CD=D2=D1=BD=E2=CA=CD=B7=BD=B2=EE=B5=C4=B1=C8=C0=
+=FD=20
+src=3D"file:///C:/Users/lwj/AppData/Local/Temp/SAS%20Temporary%20Files/_T=
+D2820_MYCOMPUTER_/ScreePlot.png">=20
+</DIV></DIV><BR></DIV>
+<DIV class=3Dbranch>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX6></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c =
+systemtitle">homework_chapter7</TD></TR></TBODY></TABLE><BR>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Print: =CA=FD=BE=DD=BC=AF WORK.LLLL" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"r header" scope=3Dcol>Obs</TH>
+    <TH class=3D"r header" scope=3Dcol>F1</TH>
+    <TH class=3D"r header" scope=3Dcol>F2</TH>
+    <TH class=3D"r header" scope=3Dcol>X1</TH>
+    <TH class=3D"r header" scope=3Dcol>X2</TH>
+    <TH class=3D"r header" scope=3Dcol>X3</TH>
+    <TH class=3D"r header" scope=3Dcol>X4</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TD class=3D"r data" noWrap>-0.06873</TD>
+    <TD class=3D"r data">0.23413</TD>
+    <TD class=3D"r data">148</TD>
+    <TD class=3D"r data">41</TD>
+    <TD class=3D"r data">72</TD>
+    <TD class=3D"r data">78</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TD class=3D"r data" noWrap>-1.56845</TD>
+    <TD class=3D"r data">0.70640</TD>
+    <TD class=3D"r data">139</TD>
+    <TD class=3D"r data">34</TD>
+    <TD class=3D"r data">71</TD>
+    <TD class=3D"r data">76</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TD class=3D"r data">2.80006</TD>
+    <TD class=3D"r data" noWrap>-0.38302</TD>
+    <TD class=3D"r data">160</TD>
+    <TD class=3D"r data">49</TD>
+    <TD class=3D"r data">77</TD>
+    <TD class=3D"r data">86</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TD class=3D"r data" noWrap>-0.74720</TD>
+    <TD class=3D"r data" noWrap>-0.79250</TD>
+    <TD class=3D"r data">149</TD>
+    <TD class=3D"r data">36</TD>
+    <TD class=3D"r data">67</TD>
+    <TD class=3D"r data">79</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TD class=3D"r data">2.69362</TD>
+    <TD class=3D"r data" noWrap>-0.01689</TD>
+    <TD class=3D"r data">159</TD>
+    <TD class=3D"r data">45</TD>
+    <TD class=3D"r data">80</TD>
+    <TD class=3D"r data">86</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TD class=3D"r data" noWrap>-2.07044</TD>
+    <TD class=3D"r data" noWrap>-0.31742</TD>
+    <TD class=3D"r data">142</TD>
+    <TD class=3D"r data">31</TD>
+    <TD class=3D"r data">66</TD>
+    <TD class=3D"r data">76</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TD class=3D"r data">1.39717</TD>
+    <TD class=3D"r data">0.05951</TD>
+    <TD class=3D"r data">153</TD>
+    <TD class=3D"r data">43</TD>
+    <TD class=3D"r data">76</TD>
+    <TD class=3D"r data">83</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TD class=3D"r data">0.81196</TD>
+    <TD class=3D"r data">0.76790</TD>
+    <TD class=3D"r data">150</TD>
+    <TD class=3D"r data">43</TD>
+    <TD class=3D"r data">77</TD>
+    <TD class=3D"r data">79</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TD class=3D"r data">0.91893</TD>
+    <TD class=3D"r data">0.57486</TD>
+    <TD class=3D"r data">151</TD>
+    <TD class=3D"r data">42</TD>
+    <TD class=3D"r data">77</TD>
+    <TD class=3D"r data">80</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TD class=3D"r data" noWrap>-2.32489</TD>
+    <TD class=3D"r data">0.35918</TD>
+    <TD class=3D"r data">139</TD>
+    <TD class=3D"r data">31</TD>
+    <TD class=3D"r data">68</TD>
+    <TD class=3D"r data">74</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TD class=3D"r data" noWrap>-2.78973</TD>
+    <TD class=3D"r data" noWrap>-0.34290</TD>
+    <TD class=3D"r data">140</TD>
+    <TD class=3D"r data">29</TD>
+    <TD class=3D"r data">64</TD>
+    <TD class=3D"r data">74</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TD class=3D"r data">2.56467</TD>
+    <TD class=3D"r data" noWrap>-0.20921</TD>
+    <TD class=3D"r data">161</TD>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">78</TD>
+    <TD class=3D"r data">84</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TD class=3D"r data">2.40148</TD>
+    <TD class=3D"r data">0.16488</TD>
+    <TD class=3D"r data">158</TD>
+    <TD class=3D"r data">49</TD>
+    <TD class=3D"r data">78</TD>
+    <TD class=3D"r data">83</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TD class=3D"r data" noWrap>-1.83494</TD>
+    <TD class=3D"r data" noWrap>-0.04937</TD>
+    <TD class=3D"r data">140</TD>
+    <TD class=3D"r data">33</TD>
+    <TD class=3D"r data">67</TD>
+    <TD class=3D"r data">77</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>15</TH>
+    <TD class=3D"r data" noWrap>-2.76619</TD>
+    <TD class=3D"r data">0.31256</TD>
+    <TD class=3D"r data">137</TD>
+    <TD class=3D"r data">31</TD>
+    <TD class=3D"r data">66</TD>
+    <TD class=3D"r data">73</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>16</TH>
+    <TD class=3D"r data" noWrap>-0.06286</TD>
+    <TD class=3D"r data" noWrap>-0.20370</TD>
+    <TD class=3D"r data">152</TD>
+    <TD class=3D"r data">35</TD>
+    <TD class=3D"r data">73</TD>
+    <TD class=3D"r data">79</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>17</TH>
+    <TD class=3D"r data">1.52946</TD>
+    <TD class=3D"r data">1.67575</TD>
+    <TD class=3D"r data">149</TD>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">82</TD>
+    <TD class=3D"r data">79</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>18</TH>
+    <TD class=3D"r data" noWrap>-1.05587</TD>
+    <TD class=3D"r data">0.06650</TD>
+    <TD class=3D"r data">145</TD>
+    <TD class=3D"r data">35</TD>
+    <TD class=3D"r data">70</TD>
+    <TD class=3D"r data">77</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>19</TH>
+    <TD class=3D"r data">2.47936</TD>
+    <TD class=3D"r data" noWrap>-0.95639</TD>
+    <TD class=3D"r data">160</TD>
+    <TD class=3D"r data">47</TD>
+    <TD class=3D"r data">74</TD>
+    <TD class=3D"r data">87</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>20</TH>
+    <TD class=3D"r data">2.10474</TD>
+    <TD class=3D"r data" noWrap>-0.02181</TD>
+    <TD class=3D"r data">156</TD>
+    <TD class=3D"r data">44</TD>
+    <TD class=3D"r data">78</TD>
+    <TD class=3D"r data">85</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>21</TH>
+    <TD class=3D"r data">0.78286</TD>
+    <TD class=3D"r data" noWrap>-0.16034</TD>
+    <TD class=3D"r data">151</TD>
+    <TD class=3D"r data">42</TD>
+    <TD class=3D"r data">73</TD>
+    <TD class=3D"r data">82</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>22</TH>
+    <TD class=3D"r data" noWrap>-0.28226</TD>
+    <TD class=3D"r data">0.35144</TD>
+    <TD class=3D"r data">147</TD>
+    <TD class=3D"r data">38</TD>
+    <TD class=3D"r data">73</TD>
+    <TD class=3D"r data">78</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>23</TH>
+    <TD class=3D"r data">0.24728</TD>
+    <TD class=3D"r data" noWrap>-1.23445</TD>
+    <TD class=3D"r data">157</TD>
+    <TD class=3D"r data">39</TD>
+    <TD class=3D"r data">68</TD>
+    <TD class=3D"r data">80</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>24</TH>
+    <TD class=3D"r data" noWrap>-2.02249</TD>
+    <TD class=3D"r data" noWrap>-0.77568</TD>
+    <TD class=3D"r data">147</TD>
+    <TD class=3D"r data">30</TD>
+    <TD class=3D"r data">65</TD>
+    <TD class=3D"r data">75</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>25</TH>
+    <TD class=3D"r data">3.03410</TD>
+    <TD class=3D"r data">0.05678</TD>
+    <TD class=3D"r data">157</TD>
+    <TD class=3D"r data">48</TD>
+    <TD class=3D"r data">80</TD>
+    <TD class=3D"r data">88</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>26</TH>
+    <TD class=3D"r data">0.16092</TD>
+    <TD class=3D"r data" noWrap>-0.04245</TD>
+    <TD class=3D"r data">151</TD>
+    <TD class=3D"r data">36</TD>
+    <TD class=3D"r data">74</TD>
+    <TD class=3D"r data">80</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>27</TH>
+    <TD class=3D"r data" noWrap>-1.34958</TD>
+    <TD class=3D"r data" noWrap>-0.02184</TD>
+    <TD class=3D"r data">144</TD>
+    <TD class=3D"r data">36</TD>
+    <TD class=3D"r data">68</TD>
+    <TD class=3D"r data">76</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>28</TH>
+    <TD class=3D"r data" noWrap>-2.12466</TD>
+    <TD class=3D"r data" noWrap>-0.13502</TD>
+    <TD class=3D"r data">141</TD>
+    <TD class=3D"r data">30</TD>
+    <TD class=3D"r data">67</TD>
+    <TD class=3D"r data">76</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>29</TH>
+    <TD class=3D"r data" noWrap>-2.36394</TD>
+    <TD class=3D"r data">0.47796</TD>
+    <TD class=3D"r data">139</TD>
+    <TD class=3D"r data">32</TD>
+    <TD class=3D"r data">68</TD>
+    <TD class=3D"r data">73</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>30</TH>
+    <TD class=3D"r data" noWrap>-0.49442</TD>
+    <TD class=3D"r data" noWrap>-0.14487</TD>
+    <TD class=3D"r data">148</TD>
+    <TD class=3D"r data">38</TD>
+    <TD class=3D"r data">70</TD>
+    <TD class=3D"r =
+data">78</TD></TR></TBODY></TABLE></DIV></DIV><BR></DIV>
+<DIV class=3Dbranch>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX7></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c =
+systemtitle">homework_chapter7</TD></TR></TBODY></TABLE><BR>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE cellSpacing=3D0 cellPadding=3D0 summary=3D"Page Layout">
+  <TBODY>
+  <TR>
+    <TD><PRE class=3Dbatch>                                          =
+Plot of F2*F1$number.  Symbol used is '.'.                               =
+           =20
+                                                                         =
+                                                     =20
+  F2 |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+ 2.0 +                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                . 17                                 =20
+     |                                                                   =
+                                                     =20
+ 1.5 +                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+ 1.0 +                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+   . 8                                               =20
+     |                           . 2                                     =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+     . 9                                             =20
+ 0.5 +            . 29                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |             . 10                                 . 22             =
+                                                     =20
+     |     . 15                                                          =
+                                                     =20
+     |                                                      . 1          =
+                                                     =20
+     |                                                                   =
+                               . 13                  =20
+     |                                    . 18                           =
+             . 7                           . 25      =20
+ 0.0 +                               . 27                                =
+                          . 20      . 5              =20
+     |                      . 14                                . 26     =
+                                                     =20
+     |                 . 28                         . 30                 =
+  . 21                                               =20
+     |                                                      . 16         =
+                                  . 12               =20
+     |                  . 6                                              =
+                                                     =20
+     |     . 11                                                          =
+                                      . 3            =20
+     |                                                                   =
+                                                     =20
+-0.5 +                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                   . 24                   . 4                      =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                 . 19                =20
+-1.0 +                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                           . 23    =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+-1.5 +                                                                   =
+                                                     =20
+     |                                                                   =
+                                                     =20
+     =
+--+--------+--------+--------+--------+--------+--------+--------+-------=
+-+--------+--------+--------+--------+--------+--
+     -3.0     -2.5     -2.0     -1.5     -1.0     -0.5      0.0      0.5 =
+     1.0      1.5      2.0      2.5      3.0      3.5=20
+                                                                         =
+                                                     =20
+                                                                 F1      =
+                                                     =20
+</PRE></TD></TR></TBODY></TABLE></DIV></DIV><BR></DIV></BODY></HTML>
+
+------=_NextPart_000_0000_01D267B4.E385B2D0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/lwj/AppData/Local/Temp/SAS%20Temporary%20Files/_TD2820_MYCOMPUTER_/ScreePlot.png
+
+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
+
+------=_NextPart_000_0000_01D267B4.E385B2D0--
