@@ -1,4 +1,4 @@
-title 'homework_chapter7';
+title 'pca analysis';
 data lll;
 input number$ 1-2 X1 X2 X3 X4;
 cards;
